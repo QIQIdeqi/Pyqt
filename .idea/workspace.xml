@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95294527-a0ad-4ba6-866f-41efac8f15f0" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt基本控件/按钮类/QDialogButtonBox.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt基本控件/按钮类/QDialogButtonBox.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt基本控件/按钮类/QToolButton.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt基本控件/按钮类/QToolButton.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt基本控件/选择类/Icon/other.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt基本控件/选择类/QComboBox控件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt基本控件/选择类/QComboBox控件.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt基本控件/选择类/QComboBox控件加载UI文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt基本控件/选择类/QListWidget列表控件加载UI文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt基本控件/选择类/QListWidget控件列表控件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt基本控件/选择类/QListWidget控件列表控件.ui" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyQt基本控件/按钮类/QPushButton控件.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyQt基本控件/按钮类/QPushButton控件.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyQt基本控件/按钮类/QPushButton控件.ui" beforeDir="false" afterPath="$PROJECT_DIR$/PyQt基本控件/按钮类/QPushButton控件.ui" afterDir="false" />
-    </list>
+    <list default="true" id="95294527-a0ad-4ba6-866f-41efac8f15f0" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -252,7 +234,7 @@
       <workItem from="1719726828097" duration="423000" />
       <workItem from="1719727267170" duration="39000" />
       <workItem from="1719727313967" duration="9687000" />
-      <workItem from="1719844064554" duration="4013000" />
+      <workItem from="1719844064554" duration="4043000" />
     </task>
     <servers />
   </component>
