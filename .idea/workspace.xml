@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95294527-a0ad-4ba6-866f-41efac8f15f0" name="更改" comment="" />
+    <list default="true" id="95294527-a0ad-4ba6-866f-41efac8f15f0" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt基本控件/按钮类/QDialogButtonBox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt基本控件/按钮类/QDialogButtonBox.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt基本控件/按钮类/QToolButton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt基本控件/按钮类/QToolButton.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt基本控件/选择类/Icon/other.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt基本控件/选择类/QComboBox控件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt基本控件/选择类/QComboBox控件.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt基本控件/选择类/QComboBox控件加载UI文件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt基本控件/选择类/QListWidget列表控件加载UI文件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt基本控件/选择类/QListWidget控件列表控件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt基本控件/选择类/QListWidget控件列表控件.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyQt基本控件/按钮类/QPushButton控件.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyQt基本控件/按钮类/QPushButton控件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyQt基本控件/按钮类/QPushButton控件.ui" beforeDir="false" afterPath="$PROJECT_DIR$/PyQt基本控件/按钮类/QPushButton控件.ui" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +36,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Pyqt" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -30,15 +48,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.QComboBox控件加载UI文件.executor": "Run",
     "Python.QLabel标签控件加载UI文件.executor": "Run",
     "Python.QLineEdit标签控件加载UI文件.executor": "Run",
+    "Python.QListWidget列表控件加载UI文件.executor": "Run",
+    "Python.QPushButton控件.executor": "Run",
     "Python.QTextEdit多行富文本框控件加载UI文件.executor": "Run",
     "Python.UI文件.executor": "Run",
     "Python.hello_world.executor": "Run",
     "Python.加载UI文件.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/13_python/pythonProject/PyQt基本控件",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/13_python/pythonProject/PyQt基本控件/选择类",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,15 +73,17 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\13_python\pythonProject\PyQt基本控件\选择类" />
       <recent name="D:\13_python\pythonProject\PyQt基本控件" />
       <recent name="D:\13_python\pythonProject\QLabel标签控件" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\13_python\pythonProject\PyQt基本控件\选择类\Icon" />
       <recent name="D:\13_python\pythonProject\环境测试" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.QTextEdit多行富文本框控件加载UI文件">
-    <configuration name="QLabel标签控件加载UI文件" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.QListWidget列表控件加载UI文件">
+    <configuration name="QComboBox控件加载UI文件" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,12 +92,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QLabel标签控件" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyQt基本控件/选择类" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QLabel标签控件/QLabel标签控件加载UI文件.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQt基本控件/选择类/QComboBox控件加载UI文件.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,6 +129,52 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="QListWidget列表控件加载UI文件" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyQt基本控件/选择类" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQt基本控件/选择类/QListWidget列表控件加载UI文件.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="QPushButton控件" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyQt基本控件/按钮类" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQt基本控件/按钮类/QPushButton控件.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="QTextEdit多行富文本框控件加载UI文件" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -119,29 +190,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQt基本控件/QTextEdit多行富文本框控件加载UI文件.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="加载UI文件" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/入门实例" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/入门实例/加载UI文件.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.QListWidget列表控件加载UI文件" />
+        <item itemvalue="Python.QComboBox控件加载UI文件" />
+        <item itemvalue="Python.QPushButton控件" />
         <item itemvalue="Python.QTextEdit多行富文本框控件加载UI文件" />
         <item itemvalue="Python.QLineEdit标签控件加载UI文件" />
-        <item itemvalue="Python.QLabel标签控件加载UI文件" />
-        <item itemvalue="Python.UI文件" />
-        <item itemvalue="Python.加载UI文件" />
       </list>
     </recent_temporary>
   </component>
@@ -204,6 +252,7 @@
       <workItem from="1719726828097" duration="423000" />
       <workItem from="1719727267170" duration="39000" />
       <workItem from="1719727313967" duration="9687000" />
+      <workItem from="1719844064554" duration="4013000" />
     </task>
     <servers />
   </component>
@@ -214,7 +263,10 @@
     <SUITE FILE_PATH="coverage/pythonProject$QTextEditUI.coverage" NAME="QTextEdit多行富文本框控件加载UI文件 覆盖结果" MODIFIED="1719751506830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQt基本控件" />
     <SUITE FILE_PATH="coverage/pythonProject$UI.coverage" NAME="UI文件 覆盖结果" MODIFIED="1719728899160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/入门实例" />
     <SUITE FILE_PATH="coverage/pythonProject$QLineEditUI.coverage" NAME="QLineEdit标签控件加载UI文件 覆盖结果" MODIFIED="1719741568935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QLabel标签控件" />
+    <SUITE FILE_PATH="coverage/pythonProject$QComboBoxUI.coverage" NAME="QComboBox控件加载UI文件 覆盖结果" MODIFIED="1719847246505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQt基本控件/选择类" />
+    <SUITE FILE_PATH="coverage/pythonProject$QPushButton.coverage" NAME="QPushButton控件 覆盖结果" MODIFIED="1719844504985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQt基本控件/按钮类" />
     <SUITE FILE_PATH="coverage/pythonProject$hello_world.coverage" NAME="hello_world 覆盖结果" MODIFIED="1719727975618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/入门实例" />
     <SUITE FILE_PATH="coverage/pythonProject$QLabelUI.coverage" NAME="QLabel标签控件加载UI文件 覆盖结果" MODIFIED="1719738111598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QLabel标签控件" />
+    <SUITE FILE_PATH="coverage/pythonProject$QListWidgetUI.coverage" NAME="QListWidget列表控件加载UI文件 覆盖结果" MODIFIED="1719848247279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQt基本控件/选择类" />
   </component>
 </project>
