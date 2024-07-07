@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="新前缀">
+    <file>favicon32.ico</file>
+  </qresource>
+</RCC>
